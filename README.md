@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analysis,Data Science**
 
-- 💬 Ask me about **Power BI, SQL, Advanced Excel**
+- 💬 Ask me about **Power BI, SQL,Tableau, Advanced Excel**
 
 - 📫 How to reach me **yuvayj1436@gmail.com**
 
